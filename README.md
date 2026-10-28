@@ -1,0 +1,1 @@
+This repo contains all my learnings, practice and lessons learnt along the way to explore Golang and backend principles, as an attempt to upskill and enlighten myself on the best practices of writitng golang code production level.
